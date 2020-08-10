@@ -349,7 +349,7 @@ function Customizations(){
 // Dropdown needs access to the DOM node in order to position the Menu
 const CustomToggle = React.forwardRef(({ children, onClick }, ref) => (
     <a
-      href=""
+      href="#"
       ref={ref}
       onClick={(e) => {
         e.preventDefault();
