@@ -2,7 +2,7 @@ import { configureStore } from '@reduxjs/toolkit'
 
 
 //import headerReducer from '../features/admin-lte3/HeaderSlice'
-import adminLteReducer from '../features/admin-lte3/AdminLteSlide'
+import adminLteReducer from '../AdminLTE/features/AdminLteSlide'
 
 export default configureStore({
   reducer: {

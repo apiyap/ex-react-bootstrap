@@ -1,6 +1,8 @@
-# For learning React Bootstrap 
+# For learning React Bootstrap & AdminLTE 3
 
 All examples got from [React Bootstrap](https://react-bootstrap.github.io/)
+And use theme from [AdminLTE 3](https://github.com/ColorlibHQ/AdminLTE)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
